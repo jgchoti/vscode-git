@@ -2,6 +2,10 @@
 
 This repository is created to present how to use Git integration within Visual Studio Code.
 
+## Purpose
+
+This repo serves as a practical guide and presentation tool
+
 ## What’s Inside
 
 - How to initialize a Git repository in VS Code
