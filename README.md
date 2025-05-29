@@ -1,5 +1,8 @@
 # Git Integration in VS Code Presentation
 
+![giphy](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDdrM2htYzZ1MDIxbnFydWhwaXRnYXo0dXB3ZGc1dzI0N3hueWUwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFkiFMDg3iFoI/giphy.gif)
+
+
 ## Purpose
 
 This repo serves as a practical guide and presentation tool
