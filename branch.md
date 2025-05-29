@@ -17,6 +17,6 @@ Enter a name for your new branch (e.g. feature-about-page)
 
 ## 🔄 Switch Between Branches
 
-### 🔽 Click the current branch name again (bottom-left corner)
+1. 🔽 Click the current branch name again (bottom-left corner)
 
-### 🧭 Pick a different branch from the list
+1. 🧭 Pick a different branch from the list
