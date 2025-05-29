@@ -4,8 +4,7 @@
 
 ### 🪄 Open Branch Menu
 
-Click the current branch name in the blue bar at the bottom-left corner of VS Code
-(e.g. “main” or “master”)
+Click the current branch name in the blue bar at the bottom-left corner of VS Code (e.g. “main” or “master”)
 
 ### ➕ Click “Create New Branch”
 
