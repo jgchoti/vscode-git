@@ -1,4 +1,4 @@
-# 🔀 Merge in VS Code
+# 🔀 Merge & Resolve Conflict in VS Code
 
 1. **Switch to main branch**
    - Click branch name (bottom-left) → choose `main`
