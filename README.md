@@ -2,9 +2,7 @@
 
 This repository is created to present how to use Git integration within Visual Studio Code.
 
-## Purpose
-
-This repo serves as a practical guide and presentation tool
+![GIPHY](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2h0azZpYWQ2a3RrMG44OHI3dXBwbGk5ZnM2Z25waWtrZGRpNHl1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VePtB3roynxfLYicuV/giphy.gif)
 
 ## What’s Inside
 
